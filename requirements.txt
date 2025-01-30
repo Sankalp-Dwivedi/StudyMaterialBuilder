@@ -1,0 +1,13 @@
+gtts 
+moviepy
+flask 
+pyngrok 
+transformers 
+torch 
+nltk
+pdfkit
+!apt-get install -y wkhtmltopdf
+beautifulsoup4
+requests
+json
+python-pptx
